@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Your app theme for Views (satisfies AAPT) -->
+    <style name="Theme.LexiSnap" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Optional: brand colors -->
+        <item name="colorPrimary">@android:color/black</item>
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+    </style>
+
+</resources>

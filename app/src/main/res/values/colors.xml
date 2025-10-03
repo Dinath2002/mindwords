@@ -1,0 +1,9 @@
+<resources>
+    <color name="app_bg">#0E0A1F</color>
+    <color name="app_card">#161432</color>
+    <color name="app_text">#E9E7F7</color>
+    <color name="app_muted">#A8A4C9</color>
+    <color name="app_accent">#7C5CFF</color>
+    <color name="app_warn">#F59E0B</color>
+    <color name="app_ok">#10B981</color>
+</resources>

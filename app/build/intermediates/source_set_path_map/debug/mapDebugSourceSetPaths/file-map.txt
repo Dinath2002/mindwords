@@ -1,0 +1,69 @@
+com.mindword.app-drawerlayout-1.1.1-0 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\027ddaab09e106202e6c9b03457815f7\transformed\drawerlayout-1.1.1\res
+com.mindword.app-navigation-common-2.8.0-1 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\03faa950042902ce68db7be49b6cd441\transformed\navigation-common-2.8.0\res
+com.mindword.app-lifecycle-livedata-2.8.4-2 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\09a73770312c528e63d287e3d3f4e90b\transformed\lifecycle-livedata-2.8.4\res
+com.mindword.app-emoji2-1.3.0-3 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\09e065a5163430e6dedb234be4c7f538\transformed\emoji2-1.3.0\res
+com.mindword.app-core-1.13.1-4 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\0a3c682f09ae5168fec919e6670455b1\transformed\core-1.13.1\res
+com.mindword.app-appcompat-1.6.1-5 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\0bb9b01e4d1da55a69f280cedbd93de1\transformed\appcompat-1.6.1\res
+com.mindword.app-runtime-release-6 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\0d778e53b95005d75454f1d3cd07c40f\transformed\runtime-release\res
+com.mindword.app-lifecycle-viewmodel-savedstate-2.8.4-7 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\1507e0dfb5aa14a5dde43860df2d5dd9\transformed\lifecycle-viewmodel-savedstate-2.8.4\res
+com.mindword.app-profileinstaller-1.3.1-8 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\15a50d05311f335d44f52c4d0f5cc069\transformed\profileinstaller-1.3.1\res
+com.mindword.app-savedstate-ktx-1.2.1-9 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\1a1844ca3c3857c7a5ffa7029c3d0abf\transformed\savedstate-ktx-1.2.1\res
+com.mindword.app-lifecycle-viewmodel-ktx-2.8.4-10 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\1e8dc98c7eae8f80c4be88fe3248ada4\transformed\lifecycle-viewmodel-ktx-2.8.4\res
+com.mindword.app-emoji2-views-helper-1.3.0-11 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\21516b7722b3b4d4971a8bd631037390\transformed\emoji2-views-helper-1.3.0\res
+com.mindword.app-viewpager2-1.0.0-12 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\27e6e19f5e2eb25928dfd96ee942dd8a\transformed\viewpager2-1.0.0\res
+com.mindword.app-activity-ktx-1.9.2-13 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\2d0e973dbeccddeb2f7601dc18a9b022\transformed\activity-ktx-1.9.2\res
+com.mindword.app-material3-release-14 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\301ec86945138311ddbc5356eb1be76f\transformed\material3-release\res
+com.mindword.app-activity-compose-1.9.2-15 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\320b34be1e992ed291179991fc7e0079\transformed\activity-compose-1.9.2\res
+com.mindword.app-graphics-path-1.0.1-16 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\368135af5c504f93412bf3e6e5c4a282\transformed\graphics-path-1.0.1\res
+com.mindword.app-appcompat-resources-1.6.1-17 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\403e2bc824071cdab8838f3e4b8f6cb7\transformed\appcompat-resources-1.6.1\res
+com.mindword.app-customview-poolingcontainer-1.0.0-18 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\42c345db09ecf3851aa2a0678a7a6a74\transformed\customview-poolingcontainer-1.0.0\res
+com.mindword.app-navigation-common-ktx-2.8.0-19 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\43bd9bd3709e975c856b47c38b1e1601\transformed\navigation-common-ktx-2.8.0\res
+com.mindword.app-activity-1.9.2-20 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\4476336b17393d7f30af0104c74ca63a\transformed\activity-1.9.2\res
+com.mindword.app-ui-util-release-21 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\4b72779bdce43a80bc003cae4aa416d4\transformed\ui-util-release\res
+com.mindword.app-animation-release-22 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\4c31be11f78102236c5c9f7001693548\transformed\animation-release\res
+com.mindword.app-ui-unit-release-23 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\500efb69d8de316d53d209477369dc0c\transformed\ui-unit-release\res
+com.mindword.app-ui-text-release-24 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\50c29ece829cde30d7f5e4133410f6a4\transformed\ui-text-release\res
+com.mindword.app-animation-core-release-25 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\55dd36c030624314cdef0adf865b7cec\transformed\animation-core-release\res
+com.mindword.app-lifecycle-runtime-ktx-release-26 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\5aa6482f29283e1fb01d0a9aa017333b\transformed\lifecycle-runtime-ktx-release\res
+com.mindword.app-lifecycle-livedata-core-ktx-2.8.4-27 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\5bf9f4a17406b85f81d943d8373dfce4\transformed\lifecycle-livedata-core-ktx-2.8.4\res
+com.mindword.app-lifecycle-viewmodel-compose-release-28 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\5d40a2ef46b87c35e2e81098485a7f56\transformed\lifecycle-viewmodel-compose-release\res
+com.mindword.app-runtime-saveable-release-29 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\5e0fab428e64af5dabf141f4ec750ea5\transformed\runtime-saveable-release\res
+com.mindword.app-recyclerview-1.1.0-30 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\630b53bb1645b52a4130ac2ae22eb411\transformed\recyclerview-1.1.0\res
+com.mindword.app-cardview-1.0.0-31 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\716d03dc1d639826356c1e8422197e4e\transformed\cardview-1.0.0\res
+com.mindword.app-foundation-layout-release-32 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\74ec523d05eaed9f257d7ed750fd47c7\transformed\foundation-layout-release\res
+com.mindword.app-material-icons-core-release-33 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\83a8adec13430a0bf8747e98d9710c05\transformed\material-icons-core-release\res
+com.mindword.app-lifecycle-livedata-core-2.8.4-34 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\88342d3f88f843edd33bb60b9738b90b\transformed\lifecycle-livedata-core-2.8.4\res
+com.mindword.app-ui-tooling-data-release-35 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\8d3b41c261c1d4ecad2a94d09483e8e0\transformed\ui-tooling-data-release\res
+com.mindword.app-foundation-release-36 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\8e16af7664c15e57c1306f0da29ea4be\transformed\foundation-release\res
+com.mindword.app-savedstate-1.2.1-37 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\944d4be0c375d2b358aad84768198cec\transformed\savedstate-1.2.1\res
+com.mindword.app-ui-geometry-release-38 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\94f3876b2d9a93012154f3367079f7c8\transformed\ui-geometry-release\res
+com.mindword.app-material-1.12.0-39 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\9630d06609da7f0bb9be964ec81c79a5\transformed\material-1.12.0\res
+com.mindword.app-coordinatorlayout-1.1.0-40 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\97aa2a611829b4bba05220ea9973d498\transformed\coordinatorlayout-1.1.0\res
+com.mindword.app-ui-tooling-preview-release-41 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\9a2e571bbf6533ded6ff60b468a1b1b8\transformed\ui-tooling-preview-release\res
+com.mindword.app-lifecycle-viewmodel-release-42 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\9cc73a62a3e94fc952ad624db2131e2c\transformed\lifecycle-viewmodel-release\res
+com.mindword.app-transition-1.5.0-43 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\a1357eeafbd0e550fbca34f40e1956c4\transformed\transition-1.5.0\res
+com.mindword.app-startup-runtime-1.1.1-44 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\a3f4c47bb334c9bcf7bae650b701f2c1\transformed\startup-runtime-1.1.1\res
+com.mindword.app-core-runtime-2.2.0-45 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\a8c9fcb58cd9d029f44f7c00012f5461\transformed\core-runtime-2.2.0\res
+com.mindword.app-ui-release-46 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\b08a9886b98060490ea8e434ee1877b1\transformed\ui-release\res
+com.mindword.app-material-release-47 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\b14a8a7f24e9c3fadcde049950a58a3e\transformed\material-release\res
+com.mindword.app-navigation-runtime-2.8.0-48 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\bf6fa47d5486271926d8fe90d5ccf34e\transformed\navigation-runtime-2.8.0\res
+com.mindword.app-fragment-1.3.6-49 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\c3c3fc2867d05be48e5af84cdc092091\transformed\fragment-1.3.6\res
+com.mindword.app-navigation-compose-2.8.0-50 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\cf0ec0af45c5e21ee01d0136a636821f\transformed\navigation-compose-2.8.0\res
+com.mindword.app-lifecycle-process-2.8.4-51 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\d26308943f25796b7715fd49ef6bfe12\transformed\lifecycle-process-2.8.4\res
+com.mindword.app-lifecycle-runtime-compose-release-52 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\d77183e9640c39533f31f3faa1caae93\transformed\lifecycle-runtime-compose-release\res
+com.mindword.app-navigation-runtime-ktx-2.8.0-53 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\db211aa1f9979a317d47246b03b0f9dd\transformed\navigation-runtime-ktx-2.8.0\res
+com.mindword.app-ui-graphics-release-54 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\dbff0ac01325d59c9cf8903af192ee82\transformed\ui-graphics-release\res
+com.mindword.app-annotation-experimental-1.4.1-55 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\dc6a04585ead8a6bdd5ef9d53c18e66a\transformed\annotation-experimental-1.4.1\res
+com.mindword.app-material-ripple-release-56 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\e05f9e443a45f821ccaded91df7676dd\transformed\material-ripple-release\res
+com.mindword.app-lifecycle-runtime-release-57 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\e4e69e197be5368af3f8b37bfd5c8df0\transformed\lifecycle-runtime-release\res
+com.mindword.app-ui-tooling-release-58 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\f036b57111f3f93d66ee709f5c53759f\transformed\ui-tooling-release\res
+com.mindword.app-core-ktx-1.13.1-59 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\f819c4f5718917345d3fcc06926e4919\transformed\core-ktx-1.13.1\res
+com.mindword.app-constraintlayout-2.0.1-60 C:\Users\sdina\.gradle\caches\9.0-milestone-1\transforms\ff0597317e34be9fca94ad853b01dc38\transformed\constraintlayout-2.0.1\res
+com.mindword.app-pngs-61 D:\New folder\e2340013_ITE 2152 Mobile Application Development Assignment 2 v2\WordGuessGame\WordGuessGame\app\build\generated\res\pngs\debug
+com.mindword.app-resValues-62 D:\New folder\e2340013_ITE 2152 Mobile Application Development Assignment 2 v2\WordGuessGame\WordGuessGame\app\build\generated\res\resValues\debug
+com.mindword.app-updated_navigation_xml-63 D:\New folder\e2340013_ITE 2152 Mobile Application Development Assignment 2 v2\WordGuessGame\WordGuessGame\app\build\generated\updated_navigation_xml\debug
+com.mindword.app-packageDebugResources-64 D:\New folder\e2340013_ITE 2152 Mobile Application Development Assignment 2 v2\WordGuessGame\WordGuessGame\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.mindword.app-packageDebugResources-65 D:\New folder\e2340013_ITE 2152 Mobile Application Development Assignment 2 v2\WordGuessGame\WordGuessGame\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.mindword.app-debug-66 D:\New folder\e2340013_ITE 2152 Mobile Application Development Assignment 2 v2\WordGuessGame\WordGuessGame\app\build\intermediates\merged_res\debug\mergeDebugResources
+com.mindword.app-debug-67 D:\New folder\e2340013_ITE 2152 Mobile Application Development Assignment 2 v2\WordGuessGame\WordGuessGame\app\src\debug\res
+com.mindword.app-main-68 D:\New folder\e2340013_ITE 2152 Mobile Application Development Assignment 2 v2\WordGuessGame\WordGuessGame\app\src\main\res

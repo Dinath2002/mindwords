@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="http://schemas.android.com/tools">
+    <color name="app_accent">#7C5CFF</color>
+    <color name="app_bg">#0E0A1F</color>
+    <color name="app_card">#161432</color>
+    <color name="app_muted">#A8A4C9</color>
+    <color name="app_ok">#10B981</color>
+    <color name="app_text">#E9E7F7</color>
+    <color name="app_warn">#F59E0B</color>
+    <style name="Theme.LexiSnap" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@android:color/black</item>
+        <item name="android:statusBarColor" ns1:targetApi="l">?attr/colorPrimary</item>
+    </style>
+</resources>
